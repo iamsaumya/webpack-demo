@@ -1,5 +1,6 @@
 import component from "./component";
+import "./main.css";
 
 document.body.appendChild(component());
 
-console.log("hello")
+console.log("hello");
